@@ -11,12 +11,12 @@
 		>
 			<span>&copy; {year} Svelte Society</span>
 			<span>•</span>
-			<a class="underline" href="/about">Code of Conduct</a>
+			<a class="border-b-0 hover:underline" href="/about">Code of Conduct</a>
 			<span>•</span>
 			<span>
 				Contribute on
 				<a
-					class="underline"
+					class="border-b-0 hover:underline"
 					href="https://github.com/svelte-society/sveltesociety.dev/"
 					target="_blank"
 					rel="noopener">GitHub</a

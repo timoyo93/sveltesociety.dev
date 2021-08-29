@@ -49,8 +49,7 @@
 			>Podcast</Link
 		>
 	</ul>
-	<p>
-		We also run the <a href="https://sveltesummit.com/">Svelte Summit</a> conference and host
-		<a href="https://www.svelteradio.com/">the Svelte Radio podcast</a>.
+	<p class="text-center">
+		We also run the <a href="https://sveltesummit.com/">Svelte Summit</a> conference.
 	</p>
 </section>

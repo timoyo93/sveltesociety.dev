@@ -106,7 +106,7 @@ h2 {
 }
 
 a {
-	color: var(--color);
+	@apply text-primary no-underline text-center border-b border-transparent hover:border-primary;
 }
 
 [href]:hover {
